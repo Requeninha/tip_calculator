@@ -1,0 +1,7 @@
+Esse é um código simples de uma calculadora de gorjeta em Python
+
+Como usar:
+
+1. Passar o valor da conta em número inteiro ou float
+2. Passar a porcentagem do garçom em inteiro ou float
+3. Resultado do valor que o garcom irá receber
